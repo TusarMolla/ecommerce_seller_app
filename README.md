@@ -1,4 +1,4 @@
-# active_ecommerce_seller_app
+# ecommerce_seller_app
 
 A new Flutter project.
 
