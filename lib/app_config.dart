@@ -2,13 +2,13 @@ var this_year = DateTime.now().year.toString();
 
 class AppConfig {
   static String copyright_text =
-      "@ ActiveItZone " + this_year; //this shows in the splash screen
+      "@" + this_year; //this shows in the splash screen
   static String app_name =
-      "Active eCommerce seller app"; //this shows in the splash screen
+      "seller app"; //this shows in the splash screen
   static String purchase_code =
-      ""; //enter your purchase code for the app from codecanyon
+      ""; //enter your purchase code for the app from
   static String system_key =
-      ""; //enter your purchase code for the app from codecanyon
+      ""; //enter your purchase code for the app from 
 
   //configure this
   // static const bool HTTPS = false;
@@ -27,8 +27,6 @@ class AppConfig {
       ""; //localhost
   // static const DOMAIN_PATH =
   //     "192.168.6.1/ecommerce_with_addons"; //inside a folder
-  // static const DOMAIN_PATH =
-  //     "demo.activeitzone.com/ecommerce"; //directly inside the public folder
 
   //do not configure these below
   static const String API_ENDPATH = "api/v2";
