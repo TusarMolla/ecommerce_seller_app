@@ -1,5 +1,7 @@
-<a href="https://flutter.dev"><img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Flutter"></a>
-</p>
+<div style="background-color:blue;">
+  <p align="center"><a href="https://flutter.dev" target="_blank"><img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="400" alt="Flutter"></a></p>
+</div>
+
 
 
 # ecommerce_seller_app
